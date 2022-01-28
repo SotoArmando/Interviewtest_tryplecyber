@@ -12,4 +12,4 @@
 
 [submodule "movieflutter"]
 	path = movieflutter
-	url = https://github.com/SotoArmando/widget_paperdeglose_react
+	url = https://github.com/SotoArmando/app_moviedb
