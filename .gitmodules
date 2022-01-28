@@ -9,3 +9,7 @@
 [submodule "desglosedebilletes"]
 	path = desglosedebilletes
 	url = https://github.com/SotoArmando/widget_paperdeglose_react
+
+[submodule "movieflutter"]
+	path = movieflutter
+	url = https://github.com/SotoArmando/widget_paperdeglose_react
