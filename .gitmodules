@@ -1,3 +1,11 @@
 [submodule "fibbonacci"]
 	path = fibbonacci
 	url = https://github.com/SotoArmando/widget_fibonnacci_react
+
+[submodule "ordenaleatorio"]
+	path = ordenaleatorio
+	url = https://github.com/SotoArmando/widget_randomsort_react
+
+[submodule "desglosedebilletes"]
+	path = desglosedebilletes
+	url = https://github.com/SotoArmando/widget_paperdeglose_react
